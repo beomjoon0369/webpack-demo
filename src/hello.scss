@@ -1,0 +1,11 @@
+/*SCSS, Sass는 계층 구조로 만들 수 있다.*/
+body {
+  background: #bbbbbb;
+
+  div {
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px solid red;
+  }
+}
+
